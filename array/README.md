@@ -1,6 +1,6 @@
 # Array algorithms
 
-[Array Workout Sheet](ArrayAlgorithmWorkoutSheet.png)
+Please download: [Workout Sheet for array algorithms](ArrayAlgorithmWorkoutSheet.png)
 
 ## Sorting algorithm
 
@@ -10,7 +10,7 @@
 
 # 配列アルゴリズム
 
-[配列アルゴリズム専用ワークアウト・シート](ArrayAlgorithmWorkoutSheet.png)
+ダウンロードリンク：[配列アルゴリズム専用ワークアウト・シート](ArrayAlgorithmWorkoutSheet.png)
 
 ## ソート（並び替え）アルゴリズム
 
