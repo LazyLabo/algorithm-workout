@@ -4,9 +4,9 @@ Please download: [Workout Sheet for array algorithms](ArrayAlgorithmWorkoutSheet
 
 ## Sorting algorithm
 
-- [Bubble Sort](bubbleSort.ja.md)
-- [Selection Sort](selectionSort.ja.md)
-- [Insertion Sort](insertionSort.ja.md)
+- [Bubble Sort](bubbleSort.en.md)
+- [Selection Sort](selectionSort.en.md)
+- [Insertion Sort](insertionSort.en.md)
 
 # 配列アルゴリズム
 
